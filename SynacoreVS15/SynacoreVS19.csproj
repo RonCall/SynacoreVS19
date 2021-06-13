@@ -49,6 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="arch-spec" />
     <None Include="bin\Debug\challenge.bin" />
     <None Include="challenge.bin" />
   </ItemGroup>
